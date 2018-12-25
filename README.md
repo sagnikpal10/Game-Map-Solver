@@ -2,7 +2,7 @@
 A* search algorithm is used to solve the game map
 
 Enter the initial source vertex 
-Example: 
+Example:  
 x - coordinate: 0
 y - coordinate: 0
 
